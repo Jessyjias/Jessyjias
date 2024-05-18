@@ -51,7 +51,7 @@ Some other projects I've worked on in the past:
 - Conducted as part of internship at: National research council Canada and University of Waterloo Vision and Image Processing Lab
 - Supervisors: Ashkan Ebadi & Alexander Wong
 
-[🧠 MouseNet: Modelling Mouse Visual Cortex with simulated mouse vision dataset and retinotopy]()
+[🧠 MouseNet: Modelling Mouse Visual Cortex with simulated mouse vision dataset and retinotopy](https://github.com/Jessyjias/Jessyjias/blob/88d2414cc44ed031026898f7564241dfb9e4275c/resources/mousenet-presentation-499.pdf)
 - Computational Neuroscience research project on modelling mouse visual cortex with convolutional neural network and training it with simulated mouse vision video dataset. 
 - Conducted as part of Neural engineering specialization @ University of Waterloo Biomedical Engineering department 
 - Supervisor: Bryan Tripps
