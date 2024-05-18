@@ -11,7 +11,8 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
 <table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Projects</b></td>
+        <td><b>💻 Project Homepage </b></td>
+        <td><b>🤔 What it does </b></td>
         <td><b>🌟 Try it out</b></td>
         <td><b>🌱 Source Repo</b></td>
         <td><b>👨‍💻 Tech stack</b></td>
@@ -20,22 +21,24 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
     <tbody>
       <!-- Project 1 -->
       <tr>
-	      <td><a href="https://devpost.com/software/trialcompare"><b>🏥 SimpleTrials</b></a></td>
+        <td>🏥<a href="https://devpost.com/software/trialcompare"><b>SimpleTrials</b></a></td>
+        <td>Explain clinical trial and eligibility criteria to patients with simple language to facilitate trial participant recruitment. </td>
         <td><a href="https://simpletrials.streamlit.app/">Streamlit App</a></td>
         <td><a href="https://github.com/Jessyjias/TrialCompare">SimpleTrials Repo</a></td>
         <td>Python, Streamlit, GPT </td>
       </tr>
       <!-- Project 2 -->
       <tr>
-	      <td><a href="https://www.timetrove.me/"><b>🕰️ TimeTrove</b></a></td>
+	<td>🕰️ <a href="https://www.timetrove.me/"><b>TimeTrove</b></a></td>
+        <td>Discover bite-sized activities tailored to your spare moments. </td>
         <td><a href="https://chromewebstore.google.com/detail/timetrove-extension/ljknocbobpfdcmdaiggpchoeijbapmbg">Extension Download</a></td>
         <td><a href="https://github.com/Jessyjias/TimeTrove">TimeTrove Repo</a></td>
         <td>JavaScript, TailwindCSS, Google Gemini </td>
       </tr>
-    </tbody>
-  </table>
+   </tbody>
+</table>
 
-<h3> Other Projects </h3>
+<h3> Research Projects </h3>
 
 Some other projects I've worked on in the past: 
 
@@ -43,9 +46,17 @@ Some other projects I've worked on in the past:
 - [2021: NeuroDetech: Reducing the bias in ADHD diagnosis](https://2021.igem.org/Team:Waterloo)
 - [2020: ReMiNE: Closing the loop for heavy metal waste](https://2020.igem.org/Team:Waterloo)
 
+[🫁 COVID-Net USPro: An Explainable Few-Shot Deep Prototypical Network for COVID-19 Screening Using Point-of-Care Ultrasound](https://doi.org/10.3390/s23052621)
+- Research Paper proposing an explainable, few-shot deep prototypical convolutional neural network for detecting COVID-19 with ultrasound images
+- Conducted as part of internship at: National research council Canada and University of Waterloo Vision and Image Processing Lab
+- Supervisors: Ashkan Ebadi & Alexander Wong
+
+[🧠 MouseNet: Modelling Mouse Visual Cortex with simulated mouse vision dataset and retinotopy]()
+- Computational Neuroscience research project on modelling mouse visual cortex with convolutional neural network and training it with simulated mouse vision video dataset. 
+- Conducted as part of Neural engineering specialization @ University of Waterloo Biomedical Engineering department 
+- Supervisor: Bryan Tripps
+
 <!-- add research: COVID + computational neuroscience -->
-
-
 
 
 <!--
