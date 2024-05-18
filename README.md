@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Jessy </h1>
+<h1><img src="https://github.com/Jessyjias/Jessyjias/blob/e9c2b9fdd08fb046c3003f34d23be373f1ef5e8c/gifs/Hi.gif" width="30px"> Hi, I'm Jessy </h1>
 
 I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains. 
 
@@ -35,7 +35,8 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
     </tbody>
   </table>
 
-<h3><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Jessy </h1>
+<h3> Other Projects </h3>
+
 Some other projects I've worked on in the past: 
 
 [🧬 Waterloo iGEM Synthetic Biology Research Group](https://igem.uwaterloo.ca/projects)
