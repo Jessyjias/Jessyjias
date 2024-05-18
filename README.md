@@ -43,7 +43,7 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
 [🧬 Waterloo iGEM Synthetic Biology Research Group](https://igem.uwaterloo.ca/projects)
 - Waterloo iGEM is a synthetic biology research group, and we work on 1 project each year. I've worked with protein design tools such as Rosetta, AutoDock and CAD modelling software in these projects. 
 - Math & Modelling team lead for the 2021 project [NeuroDetech: Reducing the bias in ADHD diagnosis](https://2021.igem.org/Team:Waterloo)
-- Math & Modelling team member for the 2020 project [2020: ReMiNE: Closing the loop for heavy metal waste](https://2020.igem.org/Team:Waterloo)
+- Math & Modelling team member for the 2020 project [ReMiNE: Closing the loop for heavy metal waste](https://2020.igem.org/Team:Waterloo)
 
 [🫁 COVID-Net USPro: An Explainable Few-Shot Deep Prototypical Network for COVID-19 Screening Using Point-of-Care Ultrasound](https://doi.org/10.3390/s23052621)
 - Research Paper proposing an explainable, few-shot deep prototypical convolutional neural network for detecting COVID-19 with ultrasound images
