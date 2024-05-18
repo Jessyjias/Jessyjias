@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Jessy </h1>
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Jessy </h1>
 
 I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains. 
 
@@ -20,7 +20,7 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
     <tbody>
       <!-- Project 1 -->
       <tr>
-	      <td><a href="https://devpost.com/software/timetrove-rqial1"><b>🏥 SimpleTrials</b></a></td>
+	      <td><a href="https://devpost.com/software/trialcompare"><b>🏥 SimpleTrials</b></a></td>
         <td><a href="https://simpletrials.streamlit.app/">Streamlit App</a></td>
         <td><a href="https://github.com/Jessyjias/TrialCompare">SimpleTrials Repo</a></td>
         <td>Python, Streamlit, GPT </td>
@@ -35,7 +35,15 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
     </tbody>
   </table>
 
-SimpleTrials - explaining clinical trials and eligibility criteria to patients, increasing patient engagement in the trial participant recruitment process. 
+<h3><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Jessy </h1>
+Some other projects I've worked on in the past: 
+
+[🧬 Waterloo iGEM Synthetic Biology Research Group](https://igem.uwaterloo.ca/projects)
+- [2021: NeuroDetech: Reducing the bias in ADHD diagnosis](https://2021.igem.org/Team:Waterloo)
+- [2020: ReMiNE: Closing the loop for heavy metal waste](https://2020.igem.org/Team:Waterloo)
+
+<!-- add research: COVID + computational neuroscience -->
+
 
 
 
