@@ -3,7 +3,7 @@
 I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains. 
 
 📫 You can reach me at: 
-- [LinkedIn](https://www.linkedin.com/in/jessy-song-1102/)
+- [LinkedIn](https://www.linkedin.com/in/jessy-song-1102/) (with full work experiences)
 - Email: jessyjiasong2000@gmail.com 
 
 🔭 Check out some of my recent side projects: 
