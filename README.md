@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/Jessyjias/Jessyjias/blob/e9c2b9fdd08fb046c3003f34d23be373f1ef5e8c/images/Hi.gif" width="30px"> Hi, I'm Jessy </h1>
+<h1><img src="images/Hi.gif" width="30px"> Hi, I'm Jessy </h1>
 
 I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains. 
 
@@ -23,7 +23,10 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
       <tr>
         <td>🏥<a href="https://devpost.com/software/trialcompare"><b>SimpleTrials</b></a></td>
         <td>Explain clinical trial and eligibility criteria to patients with simple language to facilitate trial participant recruitment. </td>
-        <td><a href="https://simpletrials.streamlit.app/">Streamlit App</a></td>
+        <!-- <td><a href="https://simpletrials.streamlit.app/">Streamlit App</a></td> -->
+        <td><p align="center">
+              <a href="https://simpletrials.streamlit.app/"><img src="images/simpleTrials-screenshot.png" width=600></a>
+          </p></td>
         <td><a href="https://github.com/Jessyjias/TrialCompare">SimpleTrials Repo</a></td>
         <td>Python, Streamlit, GPT </td>
       </tr>
