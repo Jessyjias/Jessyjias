@@ -34,7 +34,10 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
       <tr>
 	<td>🕰️ <a href="https://www.timetrove.me/"><b>TimeTrove</b></a></td>
         <td>Discover bite-sized activities tailored to your spare moments. </td>
-        <td><a href="https://chromewebstore.google.com/detail/timetrove-extension/ljknocbobpfdcmdaiggpchoeijbapmbg">Extension Download</a></td>
+        <!-- <td><a href="https://chromewebstore.google.com/detail/timetrove-extension/ljknocbobpfdcmdaiggpchoeijbapmbg">Extension Download</a></td> -->
+        <td><p align="center">
+            <a href="https://chromewebstore.google.com/detail/timetrove-extension/ljknocbobpfdcmdaiggpchoeijbapmbg"><img src="images/timetrove-storescreenshot.png" width=600></a>
+        </p></td>
         <td><a href="https://github.com/Jessyjias/TimeTrove">TimeTrove Repo</a></td>
         <td>JavaScript, TailwindCSS, Google Gemini </td>
       </tr>
