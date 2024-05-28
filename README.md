@@ -3,7 +3,7 @@
 I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains. 
 
 📫 You can reach me at: 
-- [LinkedIn](https://www.linkedin.com/in/jessy-song-1102/) (with full work experiences)
+- [LinkedIn](https://www.linkedin.com/in/jessy-song-1102/) (full list of experiences)
 - Email: jessyjiasong2000@gmail.com 
 
 🔭 Check out some of my recent side projects: 
@@ -46,11 +46,6 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
 
 <h3> Other Projects </h3>
 
-[🧬 Waterloo iGEM Synthetic Biology Research Group](https://igem.uwaterloo.ca/projects)
-- Waterloo iGEM is a synthetic biology research group, and we work on 1 project each year. I've worked with protein design tools such as Rosetta, AutoDock and CAD modelling software in these projects. 
-- Math & Modelling team lead for the 2021 project [NeuroDetech: Reducing the bias in ADHD diagnosis](https://2021.igem.org/Team:Waterloo)
-- Math & Modelling team member for the 2020 project [ReMiNE: Closing the loop for heavy metal waste](https://2020.igem.org/Team:Waterloo)
-
 [🫁 COVID-Net USPro: An Explainable Few-Shot Deep Prototypical Network for COVID-19 Screening Using Point-of-Care Ultrasound](https://doi.org/10.3390/s23052621)
 - Research Paper proposing an explainable, few-shot deep prototypical convolutional neural network for detecting COVID-19 with ultrasound images
 - Conducted as part of internship at: National research council Canada and University of Waterloo Vision and Image Processing Lab
@@ -61,6 +56,18 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
 - Computational Neuroscience research project on modelling mouse visual cortex with convolutional neural network and training it with simulated mouse vision video dataset. 
 - Conducted as part of Neural engineering specialization @ University of Waterloo Biomedical Engineering department
 - Supervisor: Bryan Tripps
+
+[👩‍🔬 Waterloo iGEM Synthetic Biology Research Group](https://igem.uwaterloo.ca/projects)
+- Waterloo iGEM is a synthetic biology research group, and we work on 1 project each year. I've worked with protein design tools such as Rosetta, AutoDock and CAD modelling software in these projects. 
+- Math & Modelling team lead for the 2021 project [NeuroDetech: Reducing the bias in ADHD diagnosis](https://2021.igem.org/Team:Waterloo)
+- Math & Modelling team member for the 2020 project [ReMiNE: Closing the loop for heavy metal waste](https://2020.igem.org/Team:Waterloo)
+
+
+[🧬 Computational Genomics - Queen's University Panchenko Lab](https://panchenko-lab.org/)
+- I worked on genomic analysis using the [MutaGene](https://www.ncbi.nlm.nih.gov/research/mutagene/) software that elucidates the cancer-driving mutational motifs and signatures for DNA Polymerase Epsilon in endometrial cancer patient genome. 
+- Inspected and visualized gene mutation data to identify sample groups based on mutational signature exposures using clustering and classification algorithms.  
+- Discussed results and crafted related [conference poster sections](resources/GRC2022_Poster_final.pdf) to present findings. 
+
 
 <!-- add research: COVID + computational neuroscience -->
 
