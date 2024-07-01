@@ -22,8 +22,8 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
     <tbody>
       <!-- Project 1 -->
       <tr>
-        <td>🏥<a href="https://devpost.com/software/trialcompare"><b>SimpleTrials</b></a></td>
-        <td>Explain clinical trial and eligibility criteria to patients with simple language to facilitate trial participant recruitment. (Got runner-up prize from the Health tech hackathon!)</td>
+        <td>🏥<a href="https://devpost.com/software/trialcompare"><b>SimpleTrials - Runner-up @ Health tech hackathon by Regeneron</b></a></td>
+        <td>Explain clinical trial and eligibility criteria to patients with simple language to facilitate trial participant recruitment. </td>
         <!-- <td><a href="https://simpletrials.streamlit.app/">Streamlit App</a></td> -->
         <td><p align="center">
               <a href="https://simpletrials.streamlit.app/"><img src="images/simpleTrials-screenshot.png" width=600></a>
