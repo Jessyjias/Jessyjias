@@ -22,7 +22,7 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
     <tbody>
       <!-- Project 1 -->
       <tr>
-        <td>🏥<a href="https://devpost.com/software/trialcompare"><b>SimpleTrials - Runner-up @ Health tech hackathon by Regeneron</b></a></td>
+        <td>🏥<a href="https://devpost.com/software/trialcompare"><b>SimpleTrials - Runner-up@HealthTech Innovators</b></a></td>
         <td>Explain clinical trial and eligibility criteria to patients with simple language to facilitate trial participant recruitment. </td>
         <!-- <td><a href="https://simpletrials.streamlit.app/">Streamlit App</a></td> -->
         <td><p align="center">
