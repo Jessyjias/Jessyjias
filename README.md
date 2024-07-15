@@ -50,7 +50,7 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
 [🫁 COVID-Net USPro: An Explainable Few-Shot Deep Prototypical Network for COVID-19 Screening Using Point-of-Care Ultrasound](https://doi.org/10.3390/s23052621)
 - Research Paper proposing an explainable, few-shot deep prototypical convolutional neural network for detecting COVID-19 with ultrasound images
 - Conducted as part of internship at: National research council Canada and University of Waterloo Vision and Image Processing Lab
-- [Code repo](https://github.com/ashkan-ebadi/COVID-Net-USPro) 
+- [Code repo](https://github.com/ashkan-ebadi/COVID-Net-USPro) | [Med-NeurIPS 2022 Poster](./resources/Med-NeurIPS-Poster.pdf)
 - Supervisors: Ashkan Ebadi & Alexander Wong
 
 [🧠 MouseNet: Modelling Mouse Visual Cortex with simulated mouse vision dataset and retinotopy](https://github.com/Jessyjias/Jessyjias/blob/88d2414cc44ed031026898f7564241dfb9e4275c/resources/mousenet-presentation-499.pdf)
