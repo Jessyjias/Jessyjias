@@ -5,7 +5,6 @@ I'm a ML/AI Engineer and Data Scientist working in biomedical/healthcare domains
 📫 You can reach me at: 
 - [LinkedIn](https://www.linkedin.com/in/jessy-song-1102/) (full list of experiences)
 - Email: jessyjiasong2000@gmail.com 
-- [Current resume](resources/JessySong-resume.pdf) 
 
 🔭 Check out some of my recent side projects: 
 
